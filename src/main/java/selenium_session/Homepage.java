@@ -14,7 +14,9 @@ public void Search(String Companyname) {
 		
 		Id.Search("Wipro", 121);
 		Page.Search("infosys");
+		Page.Search("TechMahindra");
 		
+		System.out.println("Modified Search functionalities");
 				
 			
 		
