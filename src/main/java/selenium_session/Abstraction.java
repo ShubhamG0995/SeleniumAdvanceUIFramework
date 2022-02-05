@@ -3,8 +3,8 @@ package selenium_session;
 public class Abstraction {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		System.out.println("Abstraction");
 	}
 
 }
